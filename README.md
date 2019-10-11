@@ -1,4 +1,4 @@
-# Twitch_Appi
+# Twitch_API
 ### Proyecto 1 de BD2
 
 Creado con Netbeans 8.2 y Java SDK 8
